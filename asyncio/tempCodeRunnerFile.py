@@ -1,0 +1,1 @@
+\nCompleted {num_tasks} tasks using Threading in {duration:.4f} seconds

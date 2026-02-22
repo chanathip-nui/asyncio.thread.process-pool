@@ -32,7 +32,7 @@ def run_all_dp_tasks(task_list):
 
 
 if __name__ == "__main__":
-    tasks = [5] * 1000
+    tasks = [10] * 1000
 
     print("Starting Threaded DP tasks...")
     start = time.time()
